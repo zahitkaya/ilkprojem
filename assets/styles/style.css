@@ -1,0 +1,37 @@
+#dersler_liste{
+     position: absolute;
+
+      left:20%;
+      top: 15%;
+
+
+
+}
+#ayse{
+  width:10%;
+}
+body{
+  
+   background-size: 320px 320px;
+   background-color: black;
+   height: 100% !important;
+  
+  
+
+}
+
+
+.nav-link{
+  color: white;
+}
+p{
+  
+  padding: 5%;
+}
+
+ background-image: url("https://tip.cumhuriyet.edu.tr/duyurudosya/2017_05_22_13_33_58e6d6425b70781c961fa3aa766f593c9f.png");
+
+
+ html{
+  height: 100%;
+ }
