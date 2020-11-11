@@ -21,7 +21,7 @@
             <li class="navbar-item px-3"><a class="nav-link"  href="http://localhost:81/ilkprojem/cikmis">Çıkmış</a></li>
             <li class="navbar-item px-3"><a class="nav-link"  href="#">Örnek</a></li>
             <li class="navbar-item pl-3"><a class="nav-link"  href="#">İletişim</a></li>
-            sdasd
+            sdasddasasddsa
 
 
           </ul>

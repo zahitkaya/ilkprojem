@@ -1,4 +1,4 @@
-
+saddassda
 <?php 
    require view('ders');
 require controller('konu');
